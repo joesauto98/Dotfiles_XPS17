@@ -12,3 +12,5 @@ I'm learning about dot files!!!
 - Trackpad 
 - .zshrc
 - Git (Config & ssh)
+- Homebrew Installation
+
