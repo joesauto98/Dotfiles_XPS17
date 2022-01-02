@@ -4,15 +4,20 @@
 
 - clean: ['~']
 
-  #- link:
-      #~/.tmux.conf: tmux.conf
-      #~/.vim: vim
-      #~/.vimrc: vimrc
+- link:
+  #~/.vim: vim
+      ~/.zshrc:
+      ~/.gitconfig:
 
 - create:
     - ~/Work
-    - ~/hey/you/guys  
 
-      #- shell:
-      #- [git submodule update --init --recursive, Installing submodules]
+- shell:
+    #- [git submodule update --init --recursive, Installing submodules]
+    - echo "Hey you guys"
+    - sleep 2
+    -
+      command: ./test.zsh
+      stdout: true
+      stderr: true
 
