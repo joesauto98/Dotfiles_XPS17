@@ -1,0 +1,116 @@
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+240927 240927 10:11:38 679.442 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+375645 375645 17:52:06 606.336 Io/Io: WARNING! Descriptor FD#31 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+393086 393086 18:22:35 749.117 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+401176 401176 19:38:54 821.942 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+422364 422364 20:14:05 897.345 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Error: Session with pid '18255' terminated unexpectedly.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+9509 9509 22:30:49 375.508 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection terminated
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Failed to create secure directory (/run/user/1000/pulse): No such file or directory
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Error: Session with pid '934' terminated unexpectedly.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+1998 1998 23:26:28 681.365 Io/Io: WARNING! Descriptor FD#30 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+11132 11132 16:11:32 535.506 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+389470 389470 17:24:09 218.774 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+619642 619642 15:29:02 462.833 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+623555 623555 17:40:32 982.934 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Error: Session with pid '877' terminated unexpectedly.
+Error: Session with pid '868' terminated unexpectedly.
+Error: Session with pid '97496' terminated unexpectedly.
+Error: Session with pid '555548' terminated unexpectedly.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+8287 8287 15:38:27 542.824 Io/Io: WARNING! Descriptor FD#18 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+19233 19233 16:37:42 510.128 Io/Io: WARNING! Descriptor FD#18 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+No PulseAudio daemon running, or not running as session daemon.
+No PulseAudio daemon running, or not running as session daemon.
+48014 48014 17:57:03 307.108 Io/Io: WARNING! Descriptor FD#18 type socket still open at exit.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Error: Session with pid '886' terminated unexpectedly.
+Error: Session with pid '1088' terminated unexpectedly.
+Error: Session with pid '3426' terminated unexpectedly.
+Error: Session with pid '77932' terminated unexpectedly.
+Error: Session with pid '928' terminated unexpectedly.
+Error: Session with pid '891' terminated unexpectedly.

@@ -1,0 +1,334 @@
+
+NXAGENT - Version 7.7.4
+
+Copyright (C) 2001, 2021 NoMachine.
+See http://www.nomachine.com/ for more information.
+
+Session: Starting session at Thu Dec 16 15:27:58 2021.
+Info: Agent running with pid 1330.
+Info: Slave server running with pid 1341.
+Info: Listening to slave connections on port 12001.
+Info: Display running with pid 1342.
+Info: Audio server started with pid 1350.
+Info: Audio client started with pid 1351.
+Info: Display server started with pid 1352.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Session: Session started at Thu Dec 16 15:27:58 2021.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Thu Dec 16 16:06:10 2021'.
+Session: Connected to events server ':0' at 'Thu Dec 16 16:06:10 2021'.
+Info: Screen capture running with pid 11229.
+Info: Screen analysis running with pid 11230.
+Info: Using damage extension for screen updates.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for 4ECE3AC31F397FE7182CBB42F0111B61 connected on Thu Dec 16 16:06:11 2021.
+Info: Audio server for 4ECE3AC31F397FE7182CBB42F0111B61 connected on Thu Dec 16 16:06:11 2021.
+Info: Audio client for 4ECE3AC31F397FE7182CBB42F0111B61 connected on Thu Dec 16 16:06:11 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 11314.
+Info: Audio reader running with pid 11321.
+1330 11229 16:06:32 612.111 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:32 612.283 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:32 612.426 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:32 612.562 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:32 612.565 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 011.788 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 011.934 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.061 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.186 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.312 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.437 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.563 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.688 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.816 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 012.857 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1330 11229 16:06:33 363.224 Writer/Writer: WARNING! Buffer for FD#41 reached 164658 bytes.
+1330 11277 16:11:32 501.816 Writer/Writer: WARNING! Failing writer for FD#41.
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Fri Dec 17 16:41:18 2021'.
+Session: Connected to events server ':0' at 'Fri Dec 17 16:41:18 2021'.
+Info: Screen capture running with pid 389570.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 389571.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for B941F6F33D0A7925D8B7DABB559E64DF connected on Fri Dec 17 16:41:19 2021.
+Info: Audio server for B941F6F33D0A7925D8B7DABB559E64DF connected on Fri Dec 17 16:41:19 2021.
+Info: Audio client for B941F6F33D0A7925D8B7DABB559E64DF connected on Fri Dec 17 16:41:19 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 389655.
+Info: Audio reader running with pid 389661.
+1330 389571 16:41:44 071.769 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 072.087 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 072.365 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 072.641 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 072.921 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 073.198 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 073.475 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 073.754 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389571 16:41:44 073.768 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 326.640 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 326.787 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 326.911 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.034 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.156 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.279 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.401 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.523 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.646 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.770 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 327.893 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:44 328.015 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 048.771 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 049.864 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 050.069 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 050.270 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 050.929 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 051.132 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 051.332 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 051.532 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 052.866 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 053.069 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 053.269 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 053.470 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 389570 16:41:45 721.545 Writer/Writer: WARNING! Buffer for FD#41 reached 214520 bytes.
+1330 389618 17:24:09 201.837 Writer/Writer: WARNING! Failing writer for FD#41.
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Sun Dec 19 14:45:38 2021'.
+Session: Connected to events server ':0' at 'Sun Dec 19 14:45:38 2021'.
+Info: Screen capture running with pid 619734.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 619735.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for 9E51569FD1A1C37D23BF0370818452B2 connected on Sun Dec 19 14:45:38 2021.
+Info: Audio server for 9E51569FD1A1C37D23BF0370818452B2 connected on Sun Dec 19 14:45:38 2021.
+Info: Audio client for 9E51569FD1A1C37D23BF0370818452B2 connected on Sun Dec 19 14:45:38 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 619788.
+Info: Audio reader running with pid 619817.
+1330 619735 14:46:31 368.530 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:46:31 368.676 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:46:31 368.802 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:46:31 368.925 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:46:31 369.047 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:46:31 369.127 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 718.639 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 718.921 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 719.170 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 719.416 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 719.666 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:31 719.915 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 261.072 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 261.305 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 261.507 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 261.708 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 261.912 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 262.114 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 262.315 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 262.515 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 262.716 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 262.920 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 263.122 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 264.242 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 264.440 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 264.445 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:46:32 931.983 Writer/Writer: WARNING! Buffer for FD#41 reached 291771 bytes.
+1330 619734 14:48:54 456.281 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 456.488 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 456.667 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 456.848 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.025 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.202 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.378 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.555 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.734 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 457.911 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 458.088 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 458.264 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 14:48:54 458.323 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 14:48:54 887.065 Writer/Writer: WARNING! Buffer for FD#41 reached 317751 bytes.
+1330 619734 15:12:29 146.800 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 146.931 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 846.608 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 846.902 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 847.179 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 847.440 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 847.700 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 849.149 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 849.243 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:29 849.593 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:30 968.813 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:12:30 971.528 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 328.747 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 328.899 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.026 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.152 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.278 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.403 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.529 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.655 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.783 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.916 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619735 15:14:22 329.986 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 629.600 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 629.716 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 633.086 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 633.114 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 633.128 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 633.142 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 636.161 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 636.182 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 636.192 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 636.200 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 923.231 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 923.469 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 923.681 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 923.896 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 924.108 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:22 924.169 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.632 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.654 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.661 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.667 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.672 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.677 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.682 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.687 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.692 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.697 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.702 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.719 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.725 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.740 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.746 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.751 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.756 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.762 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.767 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.772 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.776 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.782 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.786 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.792 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.797 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.802 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.807 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.812 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.817 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.822 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.827 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.832 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.837 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.842 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.847 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.852 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.857 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.862 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.867 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.872 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.877 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.883 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.887 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.893 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.898 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.903 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.908 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.913 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.918 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.923 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.928 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.933 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.938 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.943 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.948 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.954 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.963 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.969 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.974 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.979 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.983 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.989 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.994 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 925.999 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.004 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.009 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.014 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.019 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.023 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.029 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619788 15:14:22 926.034 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 619734 15:14:23 172.678 Writer/Writer: WARNING! Buffer for FD#41 reached 267493 bytes.
+1330 619756 15:29:02 410.735 Writer/Writer: WARNING! Failing writer for FD#41.
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Sun Dec 19 16:34:13 2021'.
+Session: Connected to events server ':0' at 'Sun Dec 19 16:34:13 2021'.
+Info: Screen capture running with pid 623670.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 623671.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for CD717B0BDDA14E08D3D77DD4422D0A47 connected on Sun Dec 19 16:34:13 2021.
+Info: Audio server for CD717B0BDDA14E08D3D77DD4422D0A47 connected on Sun Dec 19 16:34:13 2021.
+Info: Audio client for CD717B0BDDA14E08D3D77DD4422D0A47 connected on Sun Dec 19 16:34:13 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 623729.
+Info: Audio reader running with pid 623731.
+1330 623671 16:34:38 239.813 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623671 16:34:38 240.363 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 574.641 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 574.788 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 574.912 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.035 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.158 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.281 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.403 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.526 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.649 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.773 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 575.897 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 576.019 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 576.142 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 576.265 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 576.345 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 581.475 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:34:38 581.555 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 089.121 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 089.355 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 089.566 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 089.998 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 090.210 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 090.419 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 090.629 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 090.859 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 091.071 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 092.261 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 092.474 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 092.683 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 092.896 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 093.118 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 093.294 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:57 093.301 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1330 623670 16:44:59 044.187 Writer/Writer: WARNING! Buffer for FD#41 reached 332946 bytes.
+1330 623670 16:45:42 904.910 MediaRealtime/Realtime: WARNING! Discarded 4228921 bytes to length 4164216.
+1330 623670 16:47:06 214.158 MediaRealtime/Realtime: WARNING! Discarded 4703034 bytes to length 3687685.
+1330 623670 16:48:02 385.848 MediaRealtime/Realtime: WARNING! Discarded 3912000 bytes to length 4482439.
+1330 623670 16:51:18 210.295 MediaRealtime/Realtime: WARNING! Discarded 6168459 bytes to length 2228374.
+1330 623729 16:51:56 670.928 MediaRealtime/Realtime: WARNING! Consolidating buffer size 8400896.
+1330 623670 16:51:57 281.081 Writer/Writer: WARNING! Buffer for FD#41 reached 514402 bytes.
+Session: Terminating session at Tue Dec 21 00:29:25 2021.
+Session: Session terminated at Tue Dec 21 00:29:25 2021.

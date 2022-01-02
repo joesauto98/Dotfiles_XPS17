@@ -1,0 +1,22 @@
+Info: Starting NoMachine version 7.7.4.
+Info: Loading settings from '.nx/config/player.cfg'.
+Info: Loaded translation files for 'English'.
+29946 29946 14:17:09 559.045 Main: Creating the client session.
+29946 29946 14:17:09 559.910 ClientSession: Initializing session at 0x2bd3910.
+29946 29946 14:17:09 626.194 RecentModel: Initializing recent connection providers.
+29946 29946 14:17:09 649.855 ClientThread: Creating new thread.
+29946 29946 14:17:09 653.738 MainPanelView: State changed to 'Initialized'.
+29946 29946 14:17:09 653.756 ClientSession: Initialized session at 0x2bd3910.
+Info: Slave server running with pid 29976.
+Info: Listening to slave connections on port 59538.
+29946 29946 14:17:09 657.148 Main: Entering the GUI event loop.
+29946 29946 14:18:54 488.773 MainWindow: Hiding main window process.
+nxplayer.bin: Fatal IO error: client killed
+29946 29946 15:23:16 939.834 Io/Io: WARNING! Descriptor FD#7 type socket still open at exit.
+29946 29946 15:23:16 939.857 Io/Io: WARNING! Descriptor FD#8 type socket still open at exit.
+29946 29946 15:23:16 939.861 Io/Io: WARNING! Descriptor FD#10 type pipe still open at exit.
+29946 29946 15:23:16 939.864 Io/Io: WARNING! Descriptor FD#11 type pipe still open at exit.
+29946 29946 15:23:16 939.868 Io/Io: WARNING! Descriptor FD#14 type socket still open at exit.
+29946 29946 15:23:16 939.870 Io/Io: WARNING! Descriptor FD#19 type socket still open at exit.
+29946 29946 15:23:16 939.873 Io/Io: WARNING! Descriptor FD#21 type socket still open at exit.
+29946 29946 15:23:16 940.016 Io/Io: WARNING! Event 0x2a7fd50 pid 997 found at exit.

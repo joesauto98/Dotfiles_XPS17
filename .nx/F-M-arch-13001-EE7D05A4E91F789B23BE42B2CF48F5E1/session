@@ -1,0 +1,71 @@
+Info: Slave server running with pid 1104.
+Info: Listening to slave connections on port 25001.
+Info: Starting NoMachine Monitor version '7.7.4'.
+Info: Loaded translation files for 'English'.
+1091 1091 22:32:29 530.632 OsDetect: Setting os type to 'ArchLinux'.
+1091 1091 22:32:29 530.664 Main: Creating a new connection monitor.
+1091 1091 22:32:29 604.665 ClientThread: Creating new thread.
+1091 1091 22:32:29 604.830 ClientThread: Creating new thread.
+1091 1129 22:32:29 615.841 AudioIoPulseaudioServer: Failed to get devices list.
+1091 1091 22:32:29 638.895 MonitorService: Enabled drag and drop feature.
+1091 1091 22:35:27 192.847 MonitorDB: Adding user 'joe'.
+1091 1091 22:35:27 192.920 ClientSlave: Starting config slave with command get.
+Info: Audio decoder running with pid 2081.
+Info: Audio writer running with pid 2082.
+1091 2082 22:35:28 551.085 AudioIoPulseaudioServerConnection: WARNING! pa_context_connect failed.
+1091 1091 22:35:28 560.664 MonitorDB: There are '1' users.
+[12.12.21 22:35:28.564] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001cd
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001d2
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001d7
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001dc
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001e1
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001e6
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001eb
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001f0
+[12.12.21 22:35:28.565] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001f5
+[12.12.21 22:35:28.566] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001fa
+[12.12.21 22:35:28.566] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc001ff
+[12.12.21 22:35:28.566] X Error: BadMatch 8
+  Major opcode: 62 ()
+  Resource id:  0xc00204
+1091 1091 22:35:30 665.343 ClientSlave: Starting config slave with command get.
+[12.12.21 23:06:39.686] X Error: BadWindow 3
+  Major opcode: 2 ()
+  Resource id:  0xa00015
+[12.12.21 23:06:39.687] X Error: BadWindow 3
+  Major opcode: 25 ()
+  Resource id:  0xa00015
+1091 1091 23:26:28 740.733 MonitorDB: Removing user 'joe'.
+1091 1091 23:26:28 740.765 MonitorDB: There are '1' deleted users.
+Info: Audio decoder running with pid 18366.
+Info: Audio writer running with pid 18367.
+1091 18367 23:26:28 743.650 AudioIoPulseaudioServerConnection: WARNING! pa_context_connect failed.
+1091 2080 23:26:28 743.965 AudioIoPulseaudioServer: Failed to get devices list.
+1091 2080 23:26:28 743.977 AudioProxyCore: WARNING! Audio engine reported empty list.
+Info: Audio decoder running with pid 18368.
+Info: Audio writer running with pid 18369.
+1091 18369 23:26:28 754.320 AudioIoPulseaudioServerConnection: WARNING! pa_context_connect failed.
+1091 1091 07:08:14 431.039 MonitorService: WARNING! Terminating the monitor application with reason 'no reason'.
+1091 1091 07:08:14 431.268 Main: Cleaning up the monitor.

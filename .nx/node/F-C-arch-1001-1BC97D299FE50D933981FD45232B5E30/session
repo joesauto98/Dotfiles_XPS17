@@ -1,0 +1,84 @@
+
+NXAGENT - Version 7.7.4
+
+Copyright (C) 2001, 2021 NoMachine.
+See http://www.nomachine.com/ for more information.
+
+Session: Starting session at Sun Dec 12 21:42:49 2021.
+Info: Agent running with pid 1059.
+Info: Slave server running with pid 1074.
+Info: Listening to slave connections on port 12001.
+Info: Display running with pid 1075.
+Info: Audio server started with pid 1083.
+Info: Audio client started with pid 1084.
+Info: Display server started with pid 1085.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Session: Session started at Sun Dec 12 21:42:49 2021.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Sun Dec 12 22:10:28 2021'.
+Session: Connected to events server ':0' at 'Sun Dec 12 22:10:28 2021'.
+Info: Screen capture running with pid 9611.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 9612.
+Info: Using grab method 'CopyArea'.
+Info: Using screen size 7680x1440.
+Info: Display server for FE414CDA2ACF46B6E7441791613A2FEE connected on Sun Dec 12 22:10:29 2021.
+Info: Audio server for FE414CDA2ACF46B6E7441791613A2FEE connected on Sun Dec 12 22:10:29 2021.
+Info: Audio client for FE414CDA2ACF46B6E7441791613A2FEE connected on Sun Dec 12 22:10:29 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 9673.
+1059 9611 22:10:30 184.176 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:10:30 184.363 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:10:30 184.502 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:10:30 184.539 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+Info: Audio reader running with pid 9681.
+1059 9612 22:15:23 317.890 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.062 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.194 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.323 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.467 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.624 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.781 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 318.916 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.044 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.171 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.297 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.424 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.455 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:15:23 319.585 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:28:41 601.613 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:28:41 601.822 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:28:41 602.006 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:28:41 602.014 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 212.474 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 212.712 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 214.128 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 214.358 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 214.570 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 215.785 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 215.964 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 216.141 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 216.318 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 216.488 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9611 22:28:42 216.492 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:29:19 656.032 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:29:19 656.158 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:30:03 872.508 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1059 9612 22:30:03 872.641 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+Session: Disconnected from events server ':0' at 'Sun Dec 12 22:30:49 2021'.
+Session: Disconnected from display server ':0' at 'Sun Dec 12 22:30:49 2021'.
+1059 9636 22:30:49 322.164 Writer/Writer: WARNING! Failing writer for FD#41.
+1059 1075 22:30:49 362.564 DisplayServerApplication/MediaServerApplication: WARNING! Invalid encoder in method 'removeEncoder'.
+1059 1075 22:30:49 362.664 DisplayServerApplication/MediaServerApplication: WARNING! Invalid encoder in method 'removeEncoder'.
+Session: Terminating session at Sun Dec 12 22:30:49 2021.
+Session: Session terminated at Sun Dec 12 22:30:49 2021.

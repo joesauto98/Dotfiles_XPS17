@@ -1,0 +1,27 @@
+
+NXAGENT - Version 7.7.4
+
+Copyright (C) 2001, 2021 NoMachine.
+See http://www.nomachine.com/ for more information.
+
+Session: Starting session at Wed Dec 22 21:35:47 2021.
+Info: Agent running with pid 555736.
+Info: Slave server running with pid 555764.
+Info: Display running with pid 555765.
+Info: Listening to slave connections on port 12001.
+Info: Audio server started with pid 555772.
+Info: Audio client started with pid 555773.
+Info: Display server started with pid 555774.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Session: Session started at Wed Dec 22 21:35:47 2021.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Session: Terminating session at Thu Dec 23 09:14:36 2021.
+Session: Session terminated at Thu Dec 23 09:14:36 2021.

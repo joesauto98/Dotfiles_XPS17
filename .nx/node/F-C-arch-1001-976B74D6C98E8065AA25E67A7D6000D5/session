@@ -1,0 +1,144 @@
+
+NXAGENT - Version 7.7.4
+
+Copyright (C) 2001, 2021 NoMachine.
+See http://www.nomachine.com/ for more information.
+
+Session: Starting session at Thu Dec 23 15:22:34 2021.
+Info: Agent running with pid 1060.
+Info: Slave server running with pid 1071.
+Info: Listening to slave connections on port 12001.
+Info: Display running with pid 1072.
+Info: Audio server started with pid 1080.
+Info: Audio client started with pid 1081.
+Info: Display server started with pid 1082.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Session: Session started at Thu Dec 23 15:22:35 2021.
+"The XKEYBOARD keymap compiler (nxkb) reports:"
+"> "Warning:          Unsupported high keycode 372 for name <I372> ignored
+"> "                  X11 cannot support keycodes above 255.
+"> "                  This warning only shows for the first high keycode.
+"Errors from nxkb are not fatal to the X server"
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Thu Dec 23 15:26:10 2021'.
+Info: Screen capture running with pid 8384.
+Session: Connected to events server ':0' at 'Thu Dec 23 15:26:10 2021'.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 8385.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for 1A1DF40569EC08F1106E84251C0B221A connected on Thu Dec 23 15:26:11 2021.
+Info: Audio server for 1A1DF40569EC08F1106E84251C0B221A connected on Thu Dec 23 15:26:11 2021.
+Info: Audio client for 1A1DF40569EC08F1106E84251C0B221A connected on Thu Dec 23 15:26:11 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 8470.
+Info: Audio reader running with pid 8477.
+1060 8384 15:26:21 430.310 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 055.660 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 055.828 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 055.969 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.110 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.248 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.390 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.533 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.537 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 056.720 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 872.502 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 873.921 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 874.135 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 874.344 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 874.561 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 874.772 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 874.980 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 875.187 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 875.392 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 875.603 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 875.812 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 876.020 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 876.226 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 876.435 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 876.638 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8384 15:27:07 876.656 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.195 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.341 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.471 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.597 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.725 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.851 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 172.977 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.102 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.230 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.355 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.484 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.610 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.737 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.863 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 173.990 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 174.115 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 174.238 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 174.241 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 174.367 MediaRealtime/Realtime: WARNING! Write to FD#46 would block.
+1060 8385 15:27:08 460.704 Writer/Writer: WARNING! Buffer for FD#44 reached 308896 bytes.
+1060 8432 15:38:27 531.606 Writer/Writer: WARNING! Failing writer for FD#44.
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Thu Dec 23 16:03:30 2021'.
+Session: Connected to events server ':0' at 'Thu Dec 23 16:03:30 2021'.
+Info: Screen capture running with pid 19334.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 19335.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for 3D62972F3BE10747A3BCD2E1E200B2DF connected on Thu Dec 23 16:03:31 2021.
+Info: Audio server for 3D62972F3BE10747A3BCD2E1E200B2DF connected on Thu Dec 23 16:03:31 2021.
+Info: Audio client for 3D62972F3BE10747A3BCD2E1E200B2DF connected on Thu Dec 23 16:03:31 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 19418.
+Info: Audio reader running with pid 19424.
+1060 19334 16:03:51 495.404 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 495.612 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 495.790 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 495.967 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 496.006 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 954.546 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 955.974 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 956.188 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 956.399 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 956.612 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 956.823 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 957.032 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:51 957.208 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:03:52 713.634 Writer/Writer: WARNING! Buffer for FD#44 reached 276273 bytes.
+1060 19334 16:21:52 452.373 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 19334 16:21:52 452.706 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+Info: Using MIT-SHM extension.
+Info: Using SSE3 for screen analysis.
+Session: Connected to display server ':0' at 'Thu Dec 23 17:46:03 2021'.
+Session: Connected to events server ':0' at 'Thu Dec 23 17:46:03 2021'.
+Info: Screen capture running with pid 48114.
+Info: Using damage extension for screen updates.
+Info: Screen analysis running with pid 48115.
+Info: Using screen size 7680x1440.
+Info: Using grab method 'CopyArea'.
+Info: Display server for A9731E0D569F52EB76D4455523616066 connected on Thu Dec 23 17:46:04 2021.
+Info: Audio server for A9731E0D569F52EB76D4455523616066 connected on Thu Dec 23 17:46:04 2021.
+Info: Audio client for A9731E0D569F52EB76D4455523616066 connected on Thu Dec 23 17:46:04 2021.
+Info: Using Vp8 software encoder.
+Info: RT handler running with pid 48199.
+Info: Audio reader running with pid 48201.
+1060 48115 17:46:11 878.665 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48115 17:46:11 878.813 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48115 17:46:11 878.938 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48115 17:46:11 879.027 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48114 17:46:12 294.200 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48114 17:46:12 294.406 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48114 17:46:12 294.589 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48114 17:46:12 294.767 MediaRealtime/Realtime: WARNING! Write to FD#47 would block.
+1060 48158 17:57:03 332.461 Writer/Writer: WARNING! Failing writer for FD#44.
+Session: Terminating session at Fri Dec 24 03:54:55 2021.
+Session: Session terminated at Fri Dec 24 03:54:55 2021.
