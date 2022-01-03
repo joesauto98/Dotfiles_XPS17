@@ -4,6 +4,7 @@ echo "\n<<< Starting  Setup >>>\n"
 
 yay -Ss httpie
 yay -Ss bat
+yay -Ss exa
 yay -Ss google-chrome
 yay -Ss visual-studio-code-bin
 # TO RUN THIS FILE TYPE : ./INSTALL AND THE SCRIPT WILL START WORKING
