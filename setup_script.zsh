@@ -6,6 +6,7 @@ yay -Ss git
 yay -Ss httpie
 yay -Ss bat
 yay -Ss exa
+yay -Ss gitkraken
 yay -Ss firefox
 yay -Ss alacritty
 yay -Ss visual-studio-code-bin
