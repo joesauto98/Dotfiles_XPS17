@@ -2,6 +2,9 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+# Add colorization to man pages using the bat program
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+
 # Path to your oh-my-zsh installation.
 export ZSH="/home/joe/.oh-my-zsh"
 
