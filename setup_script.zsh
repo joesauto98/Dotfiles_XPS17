@@ -5,7 +5,7 @@ echo "\n<<< Starting  Setup >>>\n"
 yay -Ss git
 yay -Ss httpie
 yay -Ss bat
-yay -Ss exa
+yay -Ss exa # AN LL / LS REPLACEMENT WITH COLORS AND ADDED INFORMATION
 yay -Ss gitkraken
 yay -Ss firefox
 yay -Ss alacritty
